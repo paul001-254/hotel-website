@@ -1,0 +1,23 @@
+.offer-header {
+    font-size: xx-large;
+    background-color: white;
+    color: rgb(245, 245, 70);
+    padding: 2rem;
+    align-items: center;
+    display: flex;
+    font-weight: lighter;
+    justify-content: center;
+    
+
+}
+ 
+.column {
+    float: center;
+    text-align: center;
+}
+.column-2 {
+    float: left;
+    width: 30%;
+    font-size: 25px;
+    
+}
